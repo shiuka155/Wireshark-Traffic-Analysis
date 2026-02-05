@@ -1,0 +1,12 @@
+#Filter used:
+- ip.addr == **.**.**.**
+- tcp.port == 80 (HTTP)
+- udp.port == 53 (DNS)
+
+#Protocol specific:
+- http
+- fpt
+- imap
+
+#Stream resolution:
+- Right-click in the packet => Follow => TCP stream

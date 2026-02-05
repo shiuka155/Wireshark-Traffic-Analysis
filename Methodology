@@ -1,0 +1,6 @@
+##Analysis workflow:
+- Open pcap in Wireshark
+- Use display filter to isolate traffic of interest
+- Follow TCP streams for session reconstruction
+- Inspect payloads for credentials or suspicious content
+- Extract transferred files

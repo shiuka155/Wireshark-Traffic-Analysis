@@ -1,0 +1,5 @@
+While analysing, I looked for:
+- Unexpected ports and services
+- Large data transfer outward
+- Repeated DNS lookups to strange domains
+- Strang HTTP user agents

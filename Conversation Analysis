@@ -1,1 +1,11 @@
+#Why it matters?
+Understanding TCP/UDP conversations help me see and understand:
+- Who is talking to who (IP source/IP destination)
+- How long session persist
+- Which ports/services are active
 
+#Useful features:
+- Statistics => conversations
+- Statistics => endpoint
+
+This helps me to identify internal vs external activity, and repeated connection (eg beconing)
